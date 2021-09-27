@@ -23,11 +23,12 @@ main{
   margin-top: 350px;
 }
 .img1{
-  width: 50%;
-  height: 30%;
-  position: relative;
-  bottom: 120%;
-  left: 60%;
+  position: absolute;
+  width: 60%;
+  height: 170%;
+  bottom: 80%;
+  left: 80%;
+
   
 }
 
@@ -35,4 +36,5 @@ main{
   background: rgb(0, 0, 118);
   width: 75%;
   height: 200px;
+  position: relative;
 }
