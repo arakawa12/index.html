@@ -1,0 +1,15 @@
+.header{
+  background: #ff188a;
+  color: #fff;
+  height: 70px;
+}
+.wrap{
+  column-count: 3;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.item img{
+  width: 100%;
+  margin-top: 30px;
+}
